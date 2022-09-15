@@ -1,0 +1,124 @@
+.top-container{
+  background-color: #D6EFED;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+}
+.bottom-container{
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+}
+h1{
+  margin-top: 0 ;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.6rem;
+  margin: 50px auto 0 auto;
+  color: #898AA6;
+  line-height: 2,
+}
+h2{
+  font-family: 'Nunito', sans-serif;
+  font-size: 2.5rem;
+  color: #898AA6;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Nunito', sans-serif;
+  color: #C9BBCF
+}
+a{
+  color: #C9BBCF
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+p{
+    line-height: 2;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  top: 100px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 20px;
+}
+
+.skills-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.project-management{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: #898AA6;
+  border-width: 5px;
+  width: 5%
+}
+
+.btn {
+  background: #D6EFED;
+  background-image: -webkit-linear-gradient(top, #D6EFED, #B7D3DF);
+  background-image: -moz-linear-gradient(top, #D6EFED, #B7D3DF);
+  background-image: -ms-linear-gradient(top, #D6EFED, #B7D3DF);
+  background-image: -o-linear-gradient(top, #D6EFED, #B7D3DF);
+  background-image: linear-gradient(to bottom, #D6EFED, #B7D3DF);
+  -webkit-border-radius: 44;
+  -moz-border-radius: 44;
+  border-radius: 44px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: 30px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+
+}
+.intro{
+  width:30%;
+  margin: auto;
+}
+.bottom-container{
+  background: #D6EFED;
+  position: relative;
+  padding-top: 50px;
+
+}
+
+.copywrite{
+  color: #3cb0fd;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+
+}
